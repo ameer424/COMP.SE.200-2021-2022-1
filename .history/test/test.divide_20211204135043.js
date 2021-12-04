@@ -1,0 +1,7 @@
+import  divide  from "./../src/divide.js";
+import chai from "./../node_modules/chai/chai.js";
+import { assert } from "chai";
+
+describe('Divide function', function(){
+    it('divide(')
+})
