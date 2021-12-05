@@ -11,3 +11,5 @@ and LICENSE file.
 Source code folder contains a separate license file that must **NOT** be removed under any circumstances!
 Removing this license file directly violates terms and conditions of the software under testing.
 Individuals who remove or modify the license file will also carry the consequences.
+
+https://coveralls.io/repos/github/ameer424/COMP.SE.200-2021-2022-1/badge.svg?branch=main(Coverage Status)!:https://coveralls.io/github/ameer424/COMP.SE.200-2021-2022-1?branch=main
